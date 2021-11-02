@@ -21,8 +21,8 @@ oauth = OAuth(app)
 
 fitbit = oauth.remote_app(
     'fitbit',
-    consumer_key='23B273',
-    consumer_secret='af150b0cf28a127234a1be99d329de2f',
+    consumer_key=client_id,
+    consumer_secret=client_secret,
     request_token_params={'scope': ['activity','sleep','profile','location','heartrate','weight','location']},
     base_url='https://api.fitbit.com/',
     request_token_url=None,
