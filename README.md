@@ -8,7 +8,7 @@
 ### Dataset
 Fitbit personal sleep data
 
-(see this sample)[sleepdata/stages_main_sample.csv]
+[see this sample](sleepdata/stages_main_sample.csv)
 
 Nights:
 Classic(awake,restless,asleep)  | Detailed (stages)
