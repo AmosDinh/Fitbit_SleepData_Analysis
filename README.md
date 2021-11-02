@@ -1,5 +1,6 @@
 ### For potential viewers of the repository:
 - The project is not finished yet
+- It was created as source for my "presentational skills" talk in university
 - It is not a "serious" project, but I rather wanted to see which connections I could find in my sleepdata
 - analysis2.ipynb is a "run-on" file 😅
 
@@ -13,7 +14,7 @@ Classic(awake,restless,asleep)  | Detailed (stages)
 
 
   
-## Analysis
+## Analysis (Not finished)
 - Weekday (Detailed)
   - Stage Percentag
   - Time asleep  
